@@ -15,6 +15,25 @@
 - Hard drive: SamSung SSD 970 EVO 500GB
 - Cooler: Thermalright TL-C12B 12CM
 
+## BIOS Settings
+
+- Version: 2004
+- Disable
+  - Fast Boot
+  - CSM
+  - Secure Boot
+  - VT-d
+  - CFG Lock
+  - Serial Port: Off
+  - WiFi & Bluetooth
+- Enable
+  - Above 4G decoding
+  - Hyper-Threading
+  - XHCI Hand-off
+  - OS type: Windows UEFI Mode
+
+
+
 ## USB Map
 
 | Ports count | Enabled   | Comment                   |
