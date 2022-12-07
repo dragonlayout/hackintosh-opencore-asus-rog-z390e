@@ -9,10 +9,10 @@
 - Case: CoolerMaster MC Pro5
 - Motherboard: ASUS ROG STRIX Z390-E Gaming ATX
 - CPU: Intel i7-8086K (12) @ 4.00GHz
-- GPU: AMD Radeon RX 560
+- GPU: Sapphire Pulse Radeon RX 5700XT 8GB 白金版
 - RAM: Corsair Vengeance LPX DDR4 3000MHz (16Gx4)
 - WIFI/Bluetooth: Fenvi T919
-- Hard drive: SamSung SSD 970 EVO 500GB
+- Hard drive:WD_BLACK SN750 NVMe 1TB
 - Cooler: Thermalright TL-C12B 12CM
 
 ## BIOS Settings
